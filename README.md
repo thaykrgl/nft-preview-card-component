@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/profile/thaykrgl]
-- Live Site URL: [https://thaykrgl.github.io/nft-preview-card-component/]
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/thaykrgl)
+- Live Site URL: [Github Pages](https://thaykrgl.github.io/nft-preview-card-component/)
 
 ## My process
 
